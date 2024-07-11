@@ -1,0 +1,8 @@
+Flask
+gunicorn
+transformers
+requests
+Pillow
+openai
+langchain
+replicate
