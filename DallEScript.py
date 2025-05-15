@@ -6,7 +6,6 @@ from openai import OpenAI
 client = OpenAI(
     api_key='goes here lol'
 )
-#e
 def get_dominant_color(image_path):
     img = Image.open(image_path)
     img = img.convert('RGB')
